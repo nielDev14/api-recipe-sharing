@@ -26,7 +26,7 @@ const recipes = [
             "3. Remove chicken pieces from sauce and fry in another pan until nicely browned.",
             "4. Put back fried chicken pieces into sauce. Add sugar and let simmer again for another 10 minutes or until sauce has thickened. Serve warm.",
         ],
-        tag: "Filipino",
+        tag: "Lunch",
     },
     {
         id: 2,
@@ -50,7 +50,7 @@ const recipes = [
             "5. Dahon ng sili is added at the last stage to ensure leaves (and nutrients) don’t dry up. Give this a minute then it is done. Malunggay is also another healthy alternative because it is packed with vitamins and minerals which are good for nursing moms and kids as well.",
             "6. Enjoy this with patis and calamansi on the side. See the faces of your whole family light up as you bring this to the table."
         ],
-        tag: "Filipino",
+        tag: "Lunch",
     },
     {
         id: 3,
@@ -76,7 +76,7 @@ const recipes = [
             "8. Toss the wings in a bowl with the warm sauce.",
             "9. Serve with blue cheese dressing, ranch dressing, or garlic Parmesan dip. Enjoy.",
         ],
-        tag: "American",
+        tag: "Lunch",
     }
 ]
 
