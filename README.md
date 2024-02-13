@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🏄‍♂️ Members
-# 👦 Chester Luke A. Maligaso
-# 👦 Marc Angelo Macaysa
-# 👩 Christine Rose Riego
-# 👦 Michael Jeff S. Sajul
+# 🏄‍♂️ Members
+## 👦 Chester Luke A. Maligaso
+## 👦 Marc Angelo Macaysa
+## 👩 Christine Rose Riego
+## 👦 Michael Jeff S. Sajul
 
 **`Recipe-Sharing-API`**
 
