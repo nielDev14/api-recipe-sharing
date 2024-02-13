@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🏄‍♂️ Members
+## 🏄‍♂️ Members
 # 👦 Chester Luke A. Maligaso
 # 👦 Marc Angelo Macaysa
 # 👩 Christine Rose Riego
