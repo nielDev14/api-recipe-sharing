@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 👩 Christine Rose Riego
 ### 👦 Michael Jeff S. Sajul
 
-**`Recipe-Sharing-API`**
+## **`Recipe-Sharing-API`**
 
 I'm a developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
